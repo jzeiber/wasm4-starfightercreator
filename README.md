@@ -17,7 +17,7 @@ https://jzeiber.github.io/wasm4-starfighterarena/bundle/
 - Right click on the grid will delete the vertex below the mouse
 - Middle click on the gird will select the vertex below the mouse
 
-Create your starfighter using the mouse/touch controls.  You can place vertices up to 10 vertices in the grid in the upper left.  The top of the screen corresponds to the front of the ship.  You must choose one of the vertices as the vertex where your weapons will fire from.
+Create your starfighter using the mouse/touch controls.  You can place vertices up to 10 vertices in the grid in the upper left.  Vertices are mirrored left/right, so you only need to add the vertex to the left or right side of the grid and it will be mirrored on the opposite side.  The top of the screen corresponds to the front of the ship.  You must choose one of the vertices as the vertex where your weapons will fire from.
 
 When you ship has a valid configuration,  you will see a security code that represents the ship.  Write this security code down to use the ship in Starfighter Arena.
 
